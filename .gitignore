@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+assets/output/
+assets/raw_photos/*
+!assets/raw_photos/.gitkeep

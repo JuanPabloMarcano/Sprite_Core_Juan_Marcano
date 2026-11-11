@@ -1,0 +1,11 @@
+{
+  "fighter": {
+    "name": "Nuevo Luchador",
+    "health": 1000,
+    "speed": 180
+  },
+  "physics": {
+    "gravity": 1800,
+    "jump_force": 650
+  }
+}
